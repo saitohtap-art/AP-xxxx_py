@@ -1,1 +1,1 @@
-# AP-xxxx_py
+# AP機器サンプル プログラム　Python
